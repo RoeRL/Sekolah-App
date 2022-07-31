@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sekolahku2</string>
+
+    <array name="jenjang">
+        <item>TK</item>
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+    </array>
+
+    <string name="sekolahku">Sekolahku</string>
+    <string name="button">click button</string>
+    <string name="dialogTitle">Hapus File</string>
+    <string name="dialogMessage">Apakah kamu yakin ingin menghapus file ini?</string>
+</resources>
